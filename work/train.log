@@ -1,0 +1,361 @@
+LOG[1028_0102]:  Save to ../models/model.pdparams
+LOG[1028_0119]:  Save to ../models/model.pdparams
+LOG[1028_0119]:  Save to ../models/model.pdparams
+LOG[1028_0120]:  Save to ../models/model_best.pdparams with acc = 0.365364
+LOG[1028_0120]:  epoch_2, 0031s: acc=0.365364, best f1 is 0.365364 at epoch_2
+LOG[1028_0120]:  Save to ../models/model.pdparams
+LOG[1028_0120]:  Save to ../models/model.pdparams
+LOG[1028_0120]:  epoch_4, 0058s: acc=0.365364, best f1 is 0.365364 at epoch_2
+LOG[1028_0120]:  Save to ../models/model.pdparams
+LOG[1028_0120]:  Save to ../models/model.pdparams
+LOG[1028_0121]:  epoch_6, 0086s: acc=0.365364, best f1 is 0.365364 at epoch_2
+LOG[1028_0121]:  Save to ../models/model.pdparams
+LOG[1028_0121]:  Save to ../models/model.pdparams
+LOG[1028_0121]:  epoch_8, 0114s: acc=0.223149, best f1 is 0.365364 at epoch_2
+LOG[1028_0121]:  Save to ../models/model.pdparams
+LOG[1028_0121]:  Save to ../models/model.pdparams
+LOG[1028_0121]:  epoch_10, 0142s: acc=0.313294, best f1 is 0.365364 at epoch_2
+LOG[1028_0122]:  Save to ../models/model.pdparams
+LOG[1028_0122]:  Save to ../models/model.pdparams
+LOG[1028_0122]:  Save to ../models/model_best.pdparams with acc = 0.382471
+LOG[1028_0122]:  epoch_12, 0172s: acc=0.382471, best f1 is 0.382471 at epoch_12
+LOG[1028_0122]:  Save to ../models/model.pdparams
+LOG[1028_0122]:  Save to ../models/model.pdparams
+LOG[1028_0122]:  epoch_14, 0200s: acc=0.146986, best f1 is 0.382471 at epoch_12
+LOG[1028_0144]:  Save to ../models/model.pdparams
+LOG[1028_0205]:  Save to ../models/model.pdparams
+LOG[1028_0207]:  Save to ../models/model_best.pdparams with acc = 0.437773
+LOG[1028_0207]:  epoch_2, 2681s: acc=0.437773, best f1 is 0.437773 at epoch_2
+LOG[1028_0228]:  Save to ../models/model.pdparams
+LOG[1028_0250]:  Save to ../models/model.pdparams
+LOG[1028_0252]:  Save to ../models/model_best.pdparams with acc = 0.449958
+LOG[1028_0252]:  epoch_4, 5350s: acc=0.449958, best f1 is 0.449958 at epoch_4
+LOG[1028_0313]:  Save to ../models/model.pdparams
+LOG[1028_0334]:  Save to ../models/model.pdparams
+LOG[1028_0336]:  Save to ../models/model_best.pdparams with acc = 0.525005
+LOG[1028_0336]:  epoch_6, 8020s: acc=0.525005, best f1 is 0.525005 at epoch_6
+LOG[1028_0358]:  Save to ../models/model.pdparams
+LOG[1028_0419]:  Save to ../models/model.pdparams
+LOG[1028_0421]:  Save to ../models/model_best.pdparams with acc = 0.560869
+LOG[1028_0421]:  epoch_8, 10686s: acc=0.560869, best f1 is 0.560869 at epoch_8
+LOG[1028_0442]:  Save to ../models/model.pdparams
+LOG[1028_0503]:  Save to ../models/model.pdparams
+LOG[1028_0505]:  Save to ../models/model_best.pdparams with acc = 0.576521
+LOG[1028_0505]:  epoch_10, 13361s: acc=0.576521, best f1 is 0.576521 at epoch_10
+LOG[1028_0526]:  Save to ../models/model.pdparams
+LOG[1028_0547]:  Save to ../models/model.pdparams
+LOG[1028_0550]:  epoch_12, 16016s: acc=0.552016, best f1 is 0.576521 at epoch_10
+LOG[1028_0611]:  Save to ../models/model.pdparams
+LOG[1028_0632]:  Save to ../models/model.pdparams
+LOG[1028_0634]:  Save to ../models/model_best.pdparams with acc = 0.58896
+LOG[1028_0634]:  epoch_14, 18682s: acc=0.58896, best f1 is 0.58896 at epoch_14
+LOG[1028_0655]:  Save to ../models/model.pdparams
+LOG[1028_0716]:  Save to ../models/model.pdparams
+LOG[1028_0718]:  Save to ../models/model_best.pdparams with acc = 0.636177
+LOG[1028_0718]:  epoch_16, 21347s: acc=0.636177, best f1 is 0.636177 at epoch_16
+LOG[1028_0740]:  Save to ../models/model.pdparams
+LOG[1028_0801]:  Save to ../models/model.pdparams
+LOG[1028_0803]:  epoch_18, 24012s: acc=0.625818, best f1 is 0.636177 at epoch_16
+LOG[1028_0824]:  Save to ../models/model.pdparams
+LOG[1028_0845]:  Save to ../models/model.pdparams
+LOG[1028_0847]:  Save to ../models/model_best.pdparams with acc = 0.659259
+LOG[1028_0847]:  epoch_20, 26681s: acc=0.659259, best f1 is 0.659259 at epoch_20
+LOG[1028_0909]:  Save to ../models/model.pdparams
+LOG[1028_0930]:  Save to ../models/model.pdparams
+LOG[1028_0932]:  epoch_22, 29372s: acc=0.634435, best f1 is 0.659259 at epoch_20
+LOG[1028_0954]:  Save to ../models/model.pdparams
+LOG[1028_1015]:  Save to ../models/model.pdparams
+LOG[1028_1018]:  Save to ../models/model_best.pdparams with acc = 0.659373
+LOG[1028_1018]:  epoch_24, 32090s: acc=0.659373, best f1 is 0.659373 at epoch_24
+LOG[1028_1039]:  Save to ../models/model.pdparams
+LOG[1028_1101]:  Save to ../models/model.pdparams
+LOG[1028_1104]:  Save to ../models/model_best.pdparams with acc = 0.673662
+LOG[1028_1104]:  epoch_26, 34868s: acc=0.673662, best f1 is 0.673662 at epoch_26
+LOG[1028_1126]:  Save to ../models/model.pdparams
+LOG[1028_1149]:  Save to ../models/model.pdparams
+LOG[1028_1151]:  Save to ../models/model_best.pdparams with acc = 0.67844
+LOG[1028_1151]:  epoch_28, 37702s: acc=0.67844, best f1 is 0.67844 at epoch_28
+LOG[1028_1214]:  Save to ../models/model.pdparams
+LOG[1028_1236]:  Save to ../models/model.pdparams
+LOG[1028_1238]:  Save to ../models/model_best.pdparams with acc = 0.682063
+LOG[1028_1238]:  epoch_30, 40538s: acc=0.682063, best f1 is 0.682063 at epoch_30
+LOG[1028_1301]:  Save to ../models/model.pdparams
+LOG[1028_1323]:  Save to ../models/model.pdparams
+LOG[1028_1325]:  epoch_32, 43348s: acc=0.680557, best f1 is 0.682063 at epoch_30
+LOG[1028_1348]:  Save to ../models/model.pdparams
+LOG[1028_1410]:  Save to ../models/model.pdparams
+LOG[1028_1412]:  Save to ../models/model_best.pdparams with acc = 0.688508
+LOG[1028_1412]:  epoch_34, 46164s: acc=0.688508, best f1 is 0.688508 at epoch_34
+LOG[1028_1434]:  Save to ../models/model.pdparams
+LOG[1028_1457]:  Save to ../models/model.pdparams
+LOG[1028_1459]:  Save to ../models/model_best.pdparams with acc = 0.694657
+LOG[1028_1459]:  epoch_36, 48968s: acc=0.694657, best f1 is 0.694657 at epoch_36
+LOG[1028_1520]:  Save to ../models/model.pdparams
+LOG[1028_1542]:  Save to ../models/model.pdparams
+LOG[1028_1544]:  epoch_38, 51703s: acc=0.691911, best f1 is 0.694657 at epoch_36
+LOG[1028_1606]:  Save to ../models/model.pdparams
+LOG[1028_1628]:  Save to ../models/model.pdparams
+LOG[1028_1630]:  Save to ../models/model_best.pdparams with acc = 0.699153
+LOG[1028_1630]:  epoch_40, 54452s: acc=0.699153, best f1 is 0.699153 at epoch_40
+LOG[1028_1652]:  Save to ../models/model.pdparams
+LOG[1028_1714]:  Save to ../models/model.pdparams
+LOG[1028_1717]:  Save to ../models/model_best.pdparams with acc = 0.700035
+LOG[1028_1717]:  epoch_42, 57234s: acc=0.700035, best f1 is 0.700035 at epoch_42
+LOG[1028_1738]:  Save to ../models/model.pdparams
+LOG[1028_1800]:  Save to ../models/model.pdparams
+LOG[1028_1802]:  Save to ../models/model_best.pdparams with acc = 0.703503
+LOG[1028_1802]:  epoch_44, 59956s: acc=0.703503, best f1 is 0.703503 at epoch_44
+LOG[1028_1823]:  Save to ../models/model.pdparams
+LOG[1028_1845]:  Save to ../models/model.pdparams
+LOG[1028_1847]:  Save to ../models/model_best.pdparams with acc = 0.708815
+LOG[1028_1847]:  epoch_46, 62680s: acc=0.708815, best f1 is 0.708815 at epoch_46
+LOG[1028_1909]:  Save to ../models/model.pdparams
+LOG[1028_1931]:  Save to ../models/model.pdparams
+LOG[1028_1933]:  epoch_48, 65425s: acc=0.708152, best f1 is 0.708815 at epoch_46
+LOG[1028_1954]:  Save to ../models/model.pdparams
+LOG[1028_2016]:  Save to ../models/model.pdparams
+LOG[1028_2018]:  Save to ../models/model_best.pdparams with acc = 0.711227
+LOG[1028_2018]:  epoch_50, 68115s: acc=0.711227, best f1 is 0.711227 at epoch_50
+LOG[1028_2039]:  Save to ../models/model.pdparams
+LOG[1028_2100]:  Save to ../models/model.pdparams
+LOG[1028_2103]:  Save to ../models/model_best.pdparams with acc = 0.712872
+LOG[1028_2103]:  epoch_52, 70804s: acc=0.712872, best f1 is 0.712872 at epoch_52
+LOG[1029_1351]:  Save to ../models/model.pdparams
+LOG[1029_1352]:  Save to ../models/model_best.pdparams with miou = 0.13262
+LOG[1029_1352]:  epoch_1, 0034s: miou=0.13262, best f1 is 0.13262 at epoch_1
+LOG[1029_1352]:  Save to ../models/model.pdparams
+LOG[1029_1352]:  Save to ../models/model_best.pdparams with miou = 0.185713
+LOG[1029_1352]:  epoch_2, 0067s: miou=0.185713, best f1 is 0.185713 at epoch_2
+LOG[1029_1353]:  Save to ../models/model.pdparams
+LOG[1029_1353]:  epoch_3, 0099s: miou=0.121714, best f1 is 0.185713 at epoch_2
+LOG[1029_1353]:  Save to ../models/model.pdparams
+LOG[1029_1353]:  epoch_4, 0131s: miou=0.0815662, best f1 is 0.185713 at epoch_2
+LOG[1029_1354]:  Save to ../models/model.pdparams
+LOG[1029_1354]:  epoch_5, 0163s: miou=0.0897177, best f1 is 0.185713 at epoch_2
+LOG[1029_1354]:  Save to ../models/model.pdparams
+LOG[1029_1354]:  epoch_6, 0195s: miou=0.136922, best f1 is 0.185713 at epoch_2
+LOG[1029_1355]:  Save to ../models/model.pdparams
+LOG[1029_1355]:  Save to ../models/model_best.pdparams with miou = 0.205146
+LOG[1029_1355]:  epoch_7, 0228s: miou=0.205146, best f1 is 0.205146 at epoch_7
+LOG[1029_1355]:  Save to ../models/model.pdparams
+LOG[1029_1355]:  epoch_8, 0261s: miou=0.190659, best f1 is 0.205146 at epoch_7
+LOG[1029_1356]:  Save to ../models/model.pdparams
+LOG[1029_1414]:  Save to ../models/model.pdparams
+LOG[1029_1417]:  Save to ../models/model_best.pdparams with miou = 0.689722
+LOG[1029_1417]:  epoch_1, 1184s: miou=0.689722, best f1 is 0.689722 at epoch_1
+LOG[1029_1435]:  Save to ../models/model.pdparams
+LOG[1029_1437]:  epoch_2, 2413s: miou=0.607966, best f1 is 0.689722 at epoch_1
+LOG[1029_1455]:  Save to ../models/model.pdparams
+LOG[1029_1457]:  epoch_3, 3620s: miou=0.587967, best f1 is 0.689722 at epoch_1
+LOG[1029_1515]:  Save to ../models/model.pdparams
+LOG[1029_1517]:  epoch_4, 4808s: miou=0.406287, best f1 is 0.689722 at epoch_1
+LOG[1029_1534]:  Save to ../models/model.pdparams
+LOG[1029_1537]:  epoch_5, 5993s: miou=0.569652, best f1 is 0.689722 at epoch_1
+LOG[1029_1554]:  Save to ../models/model.pdparams
+LOG[1029_1556]:  epoch_6, 7178s: miou=0.566895, best f1 is 0.689722 at epoch_1
+LOG[1029_1614]:  Save to ../models/model.pdparams
+LOG[1029_1616]:  epoch_7, 8368s: miou=0.579127, best f1 is 0.689722 at epoch_1
+LOG[1029_1634]:  Save to ../models/model.pdparams
+LOG[1029_1636]:  epoch_8, 9552s: miou=0.572123, best f1 is 0.689722 at epoch_1
+LOG[1029_1653]:  Save to ../models/model.pdparams
+LOG[1029_1656]:  epoch_9, 10736s: miou=0.59282, best f1 is 0.689722 at epoch_1
+LOG[1029_1713]:  Save to ../models/model.pdparams
+LOG[1029_1716]:  epoch_10, 11937s: miou=0.570635, best f1 is 0.689722 at epoch_1
+LOG[1029_1733]:  Save to ../models/model.pdparams
+LOG[1029_1735]:  epoch_11, 13120s: miou=0.591964, best f1 is 0.689722 at epoch_1
+LOG[1029_1753]:  Save to ../models/model.pdparams
+LOG[1029_1755]:  epoch_12, 14311s: miou=0.600522, best f1 is 0.689722 at epoch_1
+LOG[1029_1813]:  Save to ../models/model.pdparams
+LOG[1029_1816]:  epoch_13, 15534s: miou=0.603641, best f1 is 0.689722 at epoch_1
+LOG[1029_1833]:  Save to ../models/model.pdparams
+LOG[1029_1836]:  epoch_14, 16741s: miou=0.596207, best f1 is 0.689722 at epoch_1
+LOG[1029_1853]:  Save to ../models/model.pdparams
+LOG[1029_1856]:  epoch_15, 17933s: miou=0.614009, best f1 is 0.689722 at epoch_1
+LOG[1029_1913]:  Save to ../models/model.pdparams
+LOG[1029_1916]:  epoch_16, 19150s: miou=0.614266, best f1 is 0.689722 at epoch_1
+LOG[1029_1934]:  Save to ../models/model.pdparams
+LOG[1029_1936]:  epoch_17, 20374s: miou=0.606046, best f1 is 0.689722 at epoch_1
+LOG[1029_1954]:  Save to ../models/model.pdparams
+LOG[1029_1957]:  epoch_18, 21589s: miou=0.614028, best f1 is 0.689722 at epoch_1
+LOG[1029_2014]:  Save to ../models/model.pdparams
+LOG[1029_2017]:  epoch_19, 22809s: miou=0.62209, best f1 is 0.689722 at epoch_1
+LOG[1029_2035]:  Save to ../models/model.pdparams
+LOG[1029_2037]:  epoch_20, 24032s: miou=0.613573, best f1 is 0.689722 at epoch_1
+LOG[1029_2055]:  Save to ../models/model.pdparams
+LOG[1029_2058]:  epoch_21, 25268s: miou=0.615369, best f1 is 0.689722 at epoch_1
+LOG[1029_2116]:  Save to ../models/model.pdparams
+LOG[1029_2118]:  epoch_22, 26489s: miou=0.620077, best f1 is 0.689722 at epoch_1
+LOG[1029_2137]:  Save to ../models/model.pdparams
+LOG[1029_2139]:  epoch_23, 27739s: miou=0.630913, best f1 is 0.689722 at epoch_1
+LOG[1029_2157]:  Save to ../models/model.pdparams
+LOG[1029_2159]:  epoch_24, 28960s: miou=0.620772, best f1 is 0.689722 at epoch_1
+LOG[1029_2217]:  Save to ../models/model.pdparams
+LOG[1029_2220]:  epoch_25, 30181s: miou=0.624633, best f1 is 0.689722 at epoch_1
+LOG[1029_2238]:  Save to ../models/model.pdparams
+LOG[1029_2240]:  epoch_26, 31393s: miou=0.625813, best f1 is 0.689722 at epoch_1
+LOG[1029_2258]:  Save to ../models/model.pdparams
+LOG[1029_2300]:  epoch_27, 32604s: miou=0.620745, best f1 is 0.689722 at epoch_1
+LOG[1029_2318]:  Save to ../models/model.pdparams
+LOG[1029_2320]:  epoch_28, 33816s: miou=0.628876, best f1 is 0.689722 at epoch_1
+LOG[1029_2338]:  Save to ../models/model.pdparams
+LOG[1029_2341]:  epoch_29, 35033s: miou=0.626186, best f1 is 0.689722 at epoch_1
+LOG[1029_2358]:  Save to ../models/model.pdparams
+LOG[1030_0001]:  epoch_30, 36243s: miou=0.630072, best f1 is 0.689722 at epoch_1
+LOG[1030_0018]:  Save to ../models/model.pdparams
+LOG[1030_0021]:  epoch_31, 37439s: miou=0.618324, best f1 is 0.689722 at epoch_1
+LOG[1030_0038]:  Save to ../models/model.pdparams
+LOG[1030_0041]:  epoch_32, 38624s: miou=0.637595, best f1 is 0.689722 at epoch_1
+LOG[1030_0058]:  Save to ../models/model.pdparams
+LOG[1030_0101]:  epoch_33, 39835s: miou=0.632365, best f1 is 0.689722 at epoch_1
+LOG[1030_0119]:  Save to ../models/model.pdparams
+LOG[1030_0121]:  epoch_34, 41046s: miou=0.632569, best f1 is 0.689722 at epoch_1
+LOG[1030_0139]:  Save to ../models/model.pdparams
+LOG[1030_0141]:  epoch_35, 42253s: miou=0.64061, best f1 is 0.689722 at epoch_1
+LOG[1030_0159]:  Save to ../models/model.pdparams
+LOG[1030_0201]:  epoch_36, 43473s: miou=0.640585, best f1 is 0.689722 at epoch_1
+LOG[1030_0219]:  Save to ../models/model.pdparams
+LOG[1030_0222]:  epoch_37, 44696s: miou=0.639159, best f1 is 0.689722 at epoch_1
+LOG[1030_0239]:  Save to ../models/model.pdparams
+LOG[1030_0242]:  epoch_38, 45900s: miou=0.641652, best f1 is 0.689722 at epoch_1
+LOG[1030_0300]:  Save to ../models/model.pdparams
+LOG[1030_0302]:  epoch_39, 47102s: miou=0.648026, best f1 is 0.689722 at epoch_1
+LOG[1030_0319]:  Save to ../models/model.pdparams
+LOG[1030_0322]:  epoch_40, 48285s: miou=0.646809, best f1 is 0.689722 at epoch_1
+LOG[1030_0339]:  Save to ../models/model.pdparams
+LOG[1030_0341]:  epoch_41, 49466s: miou=0.643923, best f1 is 0.689722 at epoch_1
+LOG[1030_0359]:  Save to ../models/model.pdparams
+LOG[1030_0401]:  epoch_42, 50649s: miou=0.656497, best f1 is 0.689722 at epoch_1
+LOG[1030_0418]:  Save to ../models/model.pdparams
+LOG[1030_0421]:  epoch_43, 51836s: miou=0.64808, best f1 is 0.689722 at epoch_1
+LOG[1030_0438]:  Save to ../models/model.pdparams
+LOG[1030_0440]:  epoch_44, 53017s: miou=0.645712, best f1 is 0.689722 at epoch_1
+LOG[1030_0458]:  Save to ../models/model.pdparams
+LOG[1030_0500]:  epoch_45, 54196s: miou=0.650106, best f1 is 0.689722 at epoch_1
+LOG[1030_0517]:  Save to ../models/model.pdparams
+LOG[1030_0520]:  epoch_46, 55376s: miou=0.65782, best f1 is 0.689722 at epoch_1
+LOG[1030_0537]:  Save to ../models/model.pdparams
+LOG[1030_0539]:  epoch_47, 56561s: miou=0.653141, best f1 is 0.689722 at epoch_1
+LOG[1030_0557]:  Save to ../models/model.pdparams
+LOG[1030_0559]:  epoch_48, 57752s: miou=0.65903, best f1 is 0.689722 at epoch_1
+LOG[1030_0617]:  Save to ../models/model.pdparams
+LOG[1030_0619]:  epoch_49, 58935s: miou=0.658645, best f1 is 0.689722 at epoch_1
+LOG[1030_0637]:  Save to ../models/model.pdparams
+LOG[1030_0639]:  epoch_50, 60137s: miou=0.659919, best f1 is 0.689722 at epoch_1
+LOG[1030_0656]:  Save to ../models/model.pdparams
+LOG[1030_0659]:  epoch_51, 61321s: miou=0.660084, best f1 is 0.689722 at epoch_1
+LOG[1030_0716]:  Save to ../models/model.pdparams
+LOG[1030_0719]:  epoch_52, 62513s: miou=0.662275, best f1 is 0.689722 at epoch_1
+LOG[1030_0736]:  Save to ../models/model.pdparams
+LOG[1030_0739]:  epoch_53, 63707s: miou=0.661986, best f1 is 0.689722 at epoch_1
+LOG[1030_0756]:  Save to ../models/model.pdparams
+LOG[1030_0758]:  epoch_54, 64900s: miou=0.663968, best f1 is 0.689722 at epoch_1
+LOG[1030_0816]:  Save to ../models/model.pdparams
+LOG[1030_0818]:  epoch_55, 66088s: miou=0.666722, best f1 is 0.689722 at epoch_1
+LOG[1030_0836]:  Save to ../models/model.pdparams
+LOG[1030_0838]:  epoch_56, 67275s: miou=0.667895, best f1 is 0.689722 at epoch_1
+LOG[1030_0856]:  Save to ../models/model.pdparams
+LOG[1030_0858]:  epoch_57, 68501s: miou=0.66727, best f1 is 0.689722 at epoch_1
+LOG[1030_0916]:  Save to ../models/model.pdparams
+LOG[1030_0918]:  epoch_58, 69694s: miou=0.668413, best f1 is 0.689722 at epoch_1
+LOG[1030_0936]:  Save to ../models/model.pdparams
+LOG[1030_0938]:  epoch_59, 70890s: miou=0.668605, best f1 is 0.689722 at epoch_1
+LOG[1030_0956]:  Save to ../models/model.pdparams
+LOG[1030_0958]:  epoch_60, 72083s: miou=0.670146, best f1 is 0.689722 at epoch_1
+LOG[1030_1136]:  Save to ../models/model.pdparams
+LOG[1030_1153]:  Save to ../models/model.pdparams
+LOG[1030_1155]:  Save to ../models/model_best.pdparams with miou = 0.490129
+LOG[1030_1155]:  epoch_2, 2241s: miou=0.490129, best f1 is 0.490129 at epoch_2
+LOG[1030_1213]:  Save to ../models/model.pdparams
+LOG[1030_1230]:  Save to ../models/model.pdparams
+LOG[1030_1233]:  epoch_4, 4473s: miou=0.188904, best f1 is 0.490129 at epoch_2
+LOG[1030_1250]:  Save to ../models/model.pdparams
+LOG[1030_1308]:  Save to ../models/model.pdparams
+LOG[1030_1310]:  epoch_6, 6718s: miou=0.289389, best f1 is 0.490129 at epoch_2
+LOG[1030_1328]:  Save to ../models/model.pdparams
+LOG[1030_1345]:  Save to ../models/model.pdparams
+LOG[1030_1347]:  epoch_8, 8956s: miou=0.279436, best f1 is 0.490129 at epoch_2
+LOG[1030_1405]:  Save to ../models/model.pdparams
+LOG[1030_1423]:  Save to ../models/model.pdparams
+LOG[1030_1425]:  epoch_10, 11205s: miou=0.315966, best f1 is 0.490129 at epoch_2
+LOG[1030_1442]:  Save to ../models/model.pdparams
+LOG[1030_1500]:  Save to ../models/model.pdparams
+LOG[1030_1502]:  epoch_12, 13451s: miou=0.131884, best f1 is 0.490129 at epoch_2
+LOG[1030_1520]:  Save to ../models/model.pdparams
+LOG[1030_1537]:  Save to ../models/model.pdparams
+LOG[1030_1540]:  epoch_14, 15699s: miou=0.416637, best f1 is 0.490129 at epoch_2
+LOG[1030_1611]:  Save to ../models/model.pdparams
+LOG[1030_1628]:  Save to ../models/model.pdparams
+LOG[1030_1631]:  Save to ../models/model_best.pdparams with miou = 0.792323
+LOG[1030_1631]:  epoch_2, 2250s: miou=0.792323, best f1 is 0.792323 at epoch_2
+LOG[1030_1649]:  Save to ../models/model.pdparams
+LOG[1030_1707]:  Save to ../models/model.pdparams
+LOG[1030_1709]:  epoch_4, 4535s: miou=0.747906, best f1 is 0.792323 at epoch_2
+LOG[1030_1727]:  Save to ../models/model.pdparams
+LOG[1030_1744]:  Save to ../models/model.pdparams
+LOG[1030_1746]:  epoch_6, 6786s: miou=0.718986, best f1 is 0.792323 at epoch_2
+LOG[1030_1804]:  Save to ../models/model.pdparams
+LOG[1030_1822]:  Save to ../models/model.pdparams
+LOG[1030_1824]:  epoch_8, 9040s: miou=0.685466, best f1 is 0.792323 at epoch_2
+LOG[1030_1842]:  Save to ../models/model.pdparams
+LOG[1030_1900]:  Save to ../models/model.pdparams
+LOG[1030_1902]:  epoch_10, 11326s: miou=0.679842, best f1 is 0.792323 at epoch_2
+LOG[1030_1920]:  Save to ../models/model.pdparams
+LOG[1030_1937]:  Save to ../models/model.pdparams
+LOG[1030_1940]:  epoch_12, 13584s: miou=0.676045, best f1 is 0.792323 at epoch_2
+LOG[1030_1957]:  Save to ../models/model.pdparams
+LOG[1030_2015]:  Save to ../models/model.pdparams
+LOG[1030_2018]:  epoch_14, 15857s: miou=0.680774, best f1 is 0.792323 at epoch_2
+LOG[1030_2035]:  Save to ../models/model.pdparams
+LOG[1030_2053]:  Save to ../models/model.pdparams
+LOG[1030_2055]:  epoch_16, 18118s: miou=0.653839, best f1 is 0.792323 at epoch_2
+LOG[1030_2113]:  Save to ../models/model.pdparams
+LOG[1030_2131]:  Save to ../models/model.pdparams
+LOG[1030_2133]:  epoch_18, 20385s: miou=0.677384, best f1 is 0.792323 at epoch_2
+LOG[1030_2151]:  Save to ../models/model.pdparams
+LOG[1030_2209]:  Save to ../models/model.pdparams
+LOG[1030_2212]:  epoch_20, 22704s: miou=0.687316, best f1 is 0.792323 at epoch_2
+LOG[1030_2230]:  Save to ../models/model.pdparams
+LOG[1030_2248]:  Save to ../models/model.pdparams
+LOG[1030_2250]:  epoch_22, 25017s: miou=0.687844, best f1 is 0.792323 at epoch_2
+LOG[1030_2308]:  Save to ../models/model.pdparams
+LOG[1030_2326]:  Save to ../models/model.pdparams
+LOG[1030_2329]:  epoch_24, 27315s: miou=0.701606, best f1 is 0.792323 at epoch_2
+LOG[1030_2347]:  Save to ../models/model.pdparams
+LOG[1031_0005]:  Save to ../models/model.pdparams
+LOG[1031_0007]:  epoch_26, 29619s: miou=0.702554, best f1 is 0.792323 at epoch_2
+LOG[1031_0025]:  Save to ../models/model.pdparams
+LOG[1031_0042]:  Save to ../models/model.pdparams
+LOG[1031_0045]:  epoch_28, 31876s: miou=0.704062, best f1 is 0.792323 at epoch_2
+LOG[1031_0102]:  Save to ../models/model.pdparams
+LOG[1031_0120]:  Save to ../models/model.pdparams
+LOG[1031_0122]:  epoch_30, 34128s: miou=0.708519, best f1 is 0.792323 at epoch_2
+LOG[1031_0140]:  Save to ../models/model.pdparams
+LOG[1031_0157]:  Save to ../models/model.pdparams
+LOG[1031_0200]:  epoch_32, 36388s: miou=0.709378, best f1 is 0.792323 at epoch_2
+LOG[1031_0217]:  Save to ../models/model.pdparams
+LOG[1031_0235]:  Save to ../models/model.pdparams
+LOG[1031_0237]:  epoch_34, 38650s: miou=0.712629, best f1 is 0.792323 at epoch_2
+LOG[1031_0255]:  Save to ../models/model.pdparams
+LOG[1031_0313]:  Save to ../models/model.pdparams
+LOG[1031_0315]:  epoch_36, 40902s: miou=0.713683, best f1 is 0.792323 at epoch_2
+LOG[1031_0333]:  Save to ../models/model.pdparams
+LOG[1031_0350]:  Save to ../models/model.pdparams
+LOG[1031_0353]:  epoch_38, 43159s: miou=0.710898, best f1 is 0.792323 at epoch_2
+LOG[1031_0410]:  Save to ../models/model.pdparams
+LOG[1031_0428]:  Save to ../models/model.pdparams
+LOG[1031_0430]:  epoch_40, 45424s: miou=0.719649, best f1 is 0.792323 at epoch_2
+LOG[1031_0448]:  Save to ../models/model.pdparams
+LOG[1031_0506]:  Save to ../models/model.pdparams
+LOG[1031_0508]:  epoch_42, 47682s: miou=0.720983, best f1 is 0.792323 at epoch_2
+LOG[1031_0526]:  Save to ../models/model.pdparams
+LOG[1031_0543]:  Save to ../models/model.pdparams
+LOG[1031_0546]:  epoch_44, 49943s: miou=0.72112, best f1 is 0.792323 at epoch_2
+LOG[1031_0603]:  Save to ../models/model.pdparams
+LOG[1031_0621]:  Save to ../models/model.pdparams
+LOG[1031_0623]:  epoch_46, 52195s: miou=0.721671, best f1 is 0.792323 at epoch_2
+LOG[1031_0641]:  Save to ../models/model.pdparams
+LOG[1031_0659]:  Save to ../models/model.pdparams
+LOG[1031_0701]:  epoch_48, 54460s: miou=0.723464, best f1 is 0.792323 at epoch_2
+LOG[1031_0719]:  Save to ../models/model.pdparams
+LOG[1031_0736]:  Save to ../models/model.pdparams
+LOG[1031_0738]:  epoch_50, 56705s: miou=0.725021, best f1 is 0.792323 at epoch_2
